@@ -7,7 +7,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
-using TinderClone.Models;
+using TinderClone.Modules.Users.Models;
 
 namespace TinderClone.Security
 {
